@@ -1,1 +1,1 @@
-this is a printf team project done by me and Thabobrian
+This is a printf team project done by MikeNdlovu and Thabobrian
